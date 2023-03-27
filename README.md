@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SYRS-21
-- 👀 I’m interested in Blockchain and Data Science
+- 👋 Hi, I’m Raghav Soni
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently a CSE Undergrad
 - 📫 Social and Contact : 
 -             Linkedin : linkedin.com/in/raghav-soni-3929061a5
